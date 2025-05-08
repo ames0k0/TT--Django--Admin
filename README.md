@@ -2,6 +2,8 @@
 
 A modern Django admin portal with custom user management, dashboard, and authentication system.
 
+<p align="center"><img src="./_readme/admin-portal.png" /></p>
+
 ## Features
 
 - **Custom User Model**
